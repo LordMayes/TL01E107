@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TL01E107</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_nota">Nota:</string>
+    <string name="hint_pais">Pais:</string>
+    <string name="menu_nuevo">Nuevo Contacto</string>
+    <string name="btn_salvar">Salvar Contacto</string>
+    
+
+</resources>
